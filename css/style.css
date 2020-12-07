@@ -1,0 +1,17 @@
+.work-body{
+    background-color: tomato;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+.color{
+    color:black;
+}
+.btn{
+    cursor: pointer;
+}
